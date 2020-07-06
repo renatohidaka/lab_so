@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Aula 01: Comandos básicos - Linux
+[Aula 01: Comandos básicos - Linux](https://github.com/renatohidaka/lab_so/blob/master/aula%2001%20-%20comandos%20ba%CC%81sicos.ipynb)
 
 You can use the [editor on GitHub](https://github.com/renatohidaka/lab_so/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
